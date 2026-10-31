@@ -3,9 +3,9 @@
 **Proyek UTS Visualisasi Data — Ganjil TA 2026/2027**
 
 ## Identitas
-- Nama: [ISI NAMA]
-- NPM: [ISI NPM]
-- Program Studi: Sistem Informasi / Manajemen Informatika
+- Nama: Siti Anisa Sulaiman
+- NPM: 241051015
+- Program Studi: Sistem Informasi
 - Mata Kuliah: Visualisasi Data
 
 ## Deskripsi
